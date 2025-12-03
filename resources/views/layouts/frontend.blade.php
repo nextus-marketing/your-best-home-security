@@ -48,7 +48,7 @@
     {
       "@type": "Organization",
       "name": "HomeDefender",
-      "url": "https://homedefender.net/",
+      "url": "https://yourbesthomesecurity.com/",
       "logo": "https://homedefender.net/frontend/my-img/logo/logo-2.png",
       
       "contactPoint": {
@@ -87,8 +87,8 @@
       }
     }
   ]
-} -->
-</script>
+}
+</script> -->
 </head>
 <body>
 <a href="tel:1-888-447-6320" class="call-now-float" aria-label="Call Now">

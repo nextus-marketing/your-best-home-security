@@ -1,9 +1,9 @@
 @extends('layouts.frontend')
 @section('title')
-    Home Defender | Affordable Smart Home Security Solutions
+    Your Best Home Security | Smart Home Security Solutions
 @endsection
 @section('meta')
-<meta name="description" content="">
+<meta name="description" content="Protect your home with Your Best Home Security. Explore smart security systems, safety guides, and reliable home protection products designed for complete peace of mind.">
 @endsection
 @section('content')
 
