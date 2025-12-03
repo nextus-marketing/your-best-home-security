@@ -1,0 +1,121 @@
+/* DataTable Top Buttons */
+.dt-buttons {
+    margin-top: 7px !important;
+}
+
+.dt-button {
+    font-size: 10px !important;
+    padding: 4px 10px 4px 10px !important;
+}
+
+.buttons-copy {
+    background-color: #f8f9fa !important;
+    border: 1px solid #dee2e6 !important;
+    color: #343a40 !important;
+}
+
+.buttons-csv {
+    background-color: #f8f9fa !important;
+    border: 1px solid #dee2e6 !important;
+    color: #343a40 !important;
+}
+
+.buttons-print {
+    background-color: #f8f9fa !important;
+    border: 1px solid #dee2e6 !important;
+    color: #343a40 !important;
+}
+
+/* DataTable */
+.dataTables_filter,
+.dataTables_length {
+    margin-bottom: 0px !important;
+    margin-top: -27px !important;
+    text-align: right !important;
+}
+
+.table-responsive::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+
+/* Select 2 */
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #539bff !important;
+    border-color: #539bff !important;
+    color: #fff !important;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    background-color: #539bff !important;
+    border-color: #539bff !important;
+    color: #fff !important;
+}
+
+.sidebar-nav ul .sidebar-item.selected>.sidebar-link,
+.sidebar-nav ul .sidebar-item.selected>.sidebar-link.active,
+.sidebar-nav ul .sidebar-item>.sidebar-link.active {
+    background-color: #e63946;
+    color: #fff;
+}
+
+.sidebar-nav ul .sidebar-item .sidebar-link:hover {
+    background-color: #fcd2d5;
+    color: #010102;
+}
+
+.btn-outline-primary {
+    --bs-btn-color: #e63946;
+    /* Red */
+    --bs-btn-border-color: #e63946;
+
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #e63946;
+    --bs-btn-hover-border-color: #e63946;
+
+    --bs-btn-focus-shadow-rgb: 230, 57, 70;
+    /* Red tone */
+
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #c72f3a;
+    /* Slightly darker red */
+    --bs-btn-active-border-color: #c72f3a;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+
+    --bs-btn-disabled-color: #e63946;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #e63946;
+
+    --bs-gradient: none;
+}
+
+.bg-info {
+    --bs-bg-opacity: 1;
+    background-color: #e01c08 !important;
+}
+
+.table-responsive .dataTables_wrapper .dataTables_paginate .paginate_button.current {
+    color: #fff;
+    background-color: #e01c08;
+    border-color: #e01c08;
+}
+
+.btn-info {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #d21906;
+    --bs-btn-border-color: #d21906;
+
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #b91505;
+    --bs-btn-hover-border-color: #b91505;
+
+    --bs-btn-focus-shadow-rgb: 210, 25, 6;
+
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #a51204;
+    --bs-btn-active-border-color: #a51204;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #d21906;
+    --bs-btn-disabled-border-color: #d21906;
+}
