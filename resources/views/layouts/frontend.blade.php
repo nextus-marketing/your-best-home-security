@@ -104,15 +104,51 @@
 			<nav class="navbar navbar-expand-lg">
 				<div class="container">
 					<!-- Logo Start -->
-					<a class="navbar-brand d-flex align-items-center" href="/" style="gap:10px;">
-                        <img src="/frontend/my-img/new-logo/your-best-home-security.png" 
-                            alt="Logo" 
-                            style="width:61px; height:51px; object-fit:contain;">
+					<!-- Logo Start -->
+<a class="navbar-brand d-flex align-items-center" href="/" style="gap:10px;">
+    <img src="/frontend/my-img/new-logo/your-best-home-security.png" 
+         alt="Logo"
+         class="brand-logo">  <!-- added class -->
 
-                        <span style="font-size:20px; font-weight:700; color:#000;">
-                            Your Best Home Security
-                        </span>
-                    </a>
+    <span class="brand-text">
+        Your Best Home Security
+    </span>
+</a>
+<!-- Logo End -->
+
+<style>
+/* Desktop */
+.navbar-brand img {
+    width: 61px !important;
+    height: 51px !important;
+    object-fit: contain;
+}
+
+/* Desktop text */
+.navbar-brand span {
+    font-size: 20px !important;
+    font-weight: 700;
+    color: #000;
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+
+    .navbar-brand img {
+        width: 42px !important;
+        height: 30px !important;
+    }
+
+    .navbar-brand span {
+        font-size: 16px !important;
+    }
+
+    .navbar-brand {
+        gap: 6px !important; /* reduce spacing */
+    }
+}
+</style>
+
 
 					<!-- Logo End -->
 
@@ -141,6 +177,8 @@
 		</div>
 	</header>
     @endif
+
+
 	<!-- Header End -->
 
 @yield(section: 'content')
@@ -225,7 +263,7 @@
             <div class="col-lg-12">
                 <div class="main-footer-box">
                     <div class="footer-logo">
-                        <a class="navbar-brand d-flex align-items-center" href="/" style="gap:10px;">
+                        <a class="navbar-brand d-flex align-items-center" href="/" style="gap:10px; justify-content: center;">
                         <img src="/frontend/my-img/new-logo/your-best-home-security.png" 
                             alt="Logo" 
                             style="width:61px; height:51px; object-fit:contain;">
@@ -304,8 +342,8 @@
                 <div class="col-md-6">
                         <div class="footer-privacy-policy">
                             <ul>
-                                <li><a href="/privacy-policy">privacy policy</a></li>
-                                <li><a href="/terms-and-condition">term's & condition</a></li>
+                                <li><a href="/privacy-policy">Privacy Policy</a></li>
+                                <li><a href="/terms-and-condition">Terms & Condition</a></li>
                             </ul>
                         </div>
                     </div>

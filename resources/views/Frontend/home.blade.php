@@ -38,20 +38,16 @@
                 <div class="col-lg-6">
                     <div class="hero-content">
                         <div class="section-title">
-                            <h3 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">welcome to home defender</h3>
-                            <h1 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">Safeguard Your Home with <br> Advanced Security Technology</h1>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">Creating a smart Surveillance for the present and
+                            <h3 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Secure Your Peace</h3>
+                            <h1 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">Advanced Security Solutions <br> For Homes and Businesses</h1>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">Outdoor surveillance cameras mounted on a vine-covered brick wall.
                                 future</p>
                         </div>
                         <div class="hero-body wow fadeInUp" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
                             <div class="hero-btn">
-                                <a href="tel:1-888-447-6320" class="btn-default">Contact Us</a>
+                                <a href="tel:1-888-447-6320" class="btn-default">Call Now</a>
                             </div>
-                            <div class="hero-body wow fadeInUp" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                                <div class="hero-btn">
-                                    <a href="/contact" class="btn-default">Send Enquiry</a>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -153,6 +149,9 @@
                     </div>
                 </div>
             </div>
+            <div class="our-support-btn wow fadeInUp text-center" data-wow-delay="0.8s">
+                            <a href="tel:18884476320" class="btn-default">Talk To An Expert</a>
+                        </div>
         </div>
     </div>
 
@@ -237,7 +236,7 @@
                     <div class="section-footer-text wow fadeInUp" data-wow-delay="1.2s">
                         <h3> Let's make <span class="heightlite">something great</span>  work together.</h3>
                         <div class="our-support-btn wow fadeInUp" data-wow-delay="0.8s" style="margin-top: 20px;">
-                            <a href="/contact" class="btn-default">Talk To An Expert</a>
+                            <a href="tel:18884476320" class="btn-default">Talk To An Expert</a>
                         </div>
                     </div>
                 </div>
@@ -307,7 +306,9 @@
                         <div class="cta-box-body wow fadeInUp" data-wow-delay="0.6s">
                             <div class="cta-box-item">
                                 <div class="icon-box">
+                                    <a href="tel:1-888-447-6320">
                                     <img src="/frontend/images/icon-phone.svg" alt="icon-phone">
+                                    </a>
                                 </div>
                                 <div class="cta-box-item-content">
                                     <p>Get Started Today</p>
@@ -513,7 +514,9 @@
                 <div class="cta-box-body wow fadeInUp" data-wow-delay="0.6s" style="justify-content: center;">
                     <div class="cta-box-item">
                         <div class="icon-box">
+                            <a href="tel:1-888-447-6320">
                             <img src="/frontend/images/icon-phone.svg" alt="icon-phone">
+                            </a>
                         </div>
                         <div class="cta-box-item-content">
                             <p>Smart Security,Best Engineers</p>
