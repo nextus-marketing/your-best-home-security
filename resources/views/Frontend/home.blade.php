@@ -38,7 +38,7 @@
                 <div class="col-lg-6">
                     <div class="hero-content">
                         <div class="section-title">
-                            <h3 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Secure Your Peace</h3>
+                            <h3 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Secure Your Peaces</h3>
                             <h1 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">Advanced Security Solutions <br> For Homes and Businesses</h1>
                             <p class="wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">Outdoor surveillance cameras mounted on a vine-covered brick wall.
                                 future</p>
