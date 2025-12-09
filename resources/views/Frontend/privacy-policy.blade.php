@@ -1,6 +1,6 @@
 @extends('layouts.frontend')
 @section('title')
-    Privacy Policy | Home Defender
+    Privacy Policy | Privacy Policy
 @endsection
 @section('content')
 <style>
