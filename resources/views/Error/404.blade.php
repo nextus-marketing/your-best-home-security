@@ -1,6 +1,6 @@
 @extends('layouts.frontend')
 @section('title')
-    404 | Home Defender
+    404 | Your Best Home Security
 @endsection
 @section('content')
 <!-- Page Header Start -->
