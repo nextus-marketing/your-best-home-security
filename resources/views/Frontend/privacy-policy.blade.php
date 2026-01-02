@@ -93,8 +93,8 @@
         <p>If you have any questions about this Privacy Policy or how we handle your personal information, please contact us:</p>
 
        <p>
-            <strong>Phone:</strong> <a href="tel:+18884476320">+1 (888) 447-6320</a><br>
-            <strong>Address:</strong> Jersey City, NJ 07097
+            <strong>Phone:</strong> <a href="tel:18558321250">+1(855) 832-1250</a><br>
+            <strong>Address:</strong> 7340 Lee Hwy, Falls Church, VA , 22042
         </p>
 
         <p data-wow-delay="3s">By using our services, you consent to the terms of this Privacy Policy.</p>

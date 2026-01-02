@@ -54,7 +54,7 @@
       "contactPoint": {
         "@type": "ContactPoint",
         "contactType": "customer support",
-        "telephone": "+1 (888) 447-6320",
+        "telephone": "+1(855) 832-1250",
         "email": "info@homedefender.net",
         "areaServed": "USA"
       }
@@ -91,7 +91,7 @@
 </script> -->
 </head>
 <body>
-<a href="tel:1-888-447-6320" class="call-now-float" aria-label="Call Now">
+<a href="tel:18558321250" class="call-now-float" aria-label="Call Now">
     <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" width="22" height="22">
         <path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 1 0 011.11-.21 11.36 11.36 0 003.54.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 5a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.54 1 1 0 01-.45 1.25l-2.2 2.2z"/>
     </svg>
@@ -165,7 +165,7 @@
                         
                         <!-- Header Btn Start -->
                         <div class="header-btn">
-                            <a href="#contact" class="btn-default">Get Started Today</a>
+                            <a href="tel:18558321250" class="btn-default">Get Started Today</a>
                         </div>
                         <!-- Header Btn End -->
 					</div>
@@ -204,7 +204,7 @@
             <h2>Get <span style="color:#2335dd;">3 Months FREE</span> Monitoring!</h2>
             <p>Call now and secure your home with our exclusive limited-time offer.</p>
             <div class="our-support-btn">
-                <a href="tel:18884476320" class="btn-default">Contact Now</a>
+                <a href="tel:18558321250" class="btn-default">Contact Now</a>
             </div>
         </div>
     </div>
@@ -281,11 +281,11 @@
                             </div>
                             <div class="footer-contact-item-content">
                                 <p>phone number</p>
-                                <h3><a href="tel:18884476320">+1 (888) 447-6320</a></h3>
+                                <h3><a href="tel:18558321250">+1(855) 832-1250</a></h3>
                             </div>
                         </div>
 
-                        <div class="footer-contact-item">
+                        <!-- <div class="footer-contact-item">
                             <div class="icon-box">
                                 <img src="/frontend/images/icon-mail.svg" alt="icon">
                             </div>
@@ -293,7 +293,7 @@
                                 <p>email address</p>
                                 <h3><a href="mailto:info@homedefender.net">info@homedefender.net</a></h3>
                             </div>
-                        </div>
+                        </div> -->
 
                         <div class="footer-contact-item">
                             <div class="icon-box">
@@ -301,7 +301,7 @@
                             </div>
                             <div class="footer-contact-item-content">
                                 <p>location</p>
-                                <h3>Jersey City, NJ 07097</h3>
+                                <h3>7340 Lee Hwy, Falls Church, VA , 22042</h3>
                             </div>
                         </div>
                     </div>
