@@ -509,7 +509,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center mt-4">
+            <div class="row justify-content-center">
                 <!-- Box 2 -->
                 <div class="cta-box-body wow fadeInUp" data-wow-delay="0.6s" style="justify-content: center;">
                     <div class="cta-box-item">
