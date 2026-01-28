@@ -502,3 +502,11 @@
 .our-support {
     padding: 50px 0;
 }
+
+.testimonial-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    z-index: 1;
+}
