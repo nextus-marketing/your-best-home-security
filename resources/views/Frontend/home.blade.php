@@ -32,7 +32,7 @@
     }
     
     </style>
-    <div class="hero dark-section parallaxie" style="background-image: url(&quot;https://homedefender.net/frontend/images/hero-bg-2.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center -325.8px;">
+    <div class="hero dark-section parallaxie" style="background-image: url(/frontend/images/hero-bg-2.jpg); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center -325.8px;">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
