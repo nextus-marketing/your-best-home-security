@@ -150,8 +150,8 @@
                 </div>
             </div>
             <div class="our-support-btn wow fadeInUp text-center" data-wow-delay="0.8s">
-                            <a href="tel:18558321250" class="btn-default">Talk To An Expert</a>
-                        </div>
+                <a href="tel:18558321250" class="btn-default">Talk To An Expert</a>
+            </div>
         </div>
     </div>
 
@@ -284,7 +284,6 @@
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 </div>
@@ -389,7 +388,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="row">
                 <div class="col-lg-12">
                     <div class="testimonial-slider">
@@ -421,7 +419,7 @@
                                             <i class="fa-solid fa-star"></i>
                                         </div>
                                         <div class="testimonial-content">
-                                        <p>"Your Best Home Security transformed our sense of safety. The installation was seamless, and now we feel secure at all times."</p>
+                                            <p>"Your Best Home Security transformed our sense of safety. The installation was seamless, and now we feel secure at all times."</p>
                                         </div>
                                     </div>
                                 </div>
